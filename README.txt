@@ -8,7 +8,7 @@ with simple run.
 
 [*] Usage:
 Just run script after change mode using 755 code, bash or sh or ./ ,
-hope you finde what you need !!!
+hope you find what you need !!!
 
 [*] Contact:
 for more information can mail by adress : usr.g0a1@gmail.com
