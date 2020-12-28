@@ -15,7 +15,7 @@ REQUEST ADMINISTRATOR PRIVILGES   true
 REQUEST USER PRIVILGES            true
 FILE VERSION                      1.0
 ======================================================================
-		                         [ DESCRIPCTION ]
+		              [ DESCRIPCTION ]
 ======================================================================
 [*] Introduction:
 - Auto Linux Tool, Simple bash script writen by Andrei Abd | CoderX
